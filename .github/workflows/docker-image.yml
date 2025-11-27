@@ -32,7 +32,7 @@ jobs:
           context: ./FOODAPI-SPRINGBOOT
           file: ./FOODAPI-SPRINGBOOT/backend.Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/Hback:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/hback:latest
 
       # Step 5 — Build & Push Frontend Image
       - name: Build and Push Frontend Image
@@ -41,4 +41,4 @@ jobs:
           context: ./FOODAPI-REACTAPP
           file: ./FOODAPI-REACTAPP/frontend.Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/Hfront:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/hfront:latest

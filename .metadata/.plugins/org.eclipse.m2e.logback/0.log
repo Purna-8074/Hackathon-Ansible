@@ -1,0 +1,11 @@
+2025-11-27 23:11:39,410 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-11-27 23:12:16,850 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.klef.sdp:FOODAPI-SPRINGBOOT:0.0.1-SNAPSHOT @ C:\Users\DELL\OneDrive\Desktop\New folder\FOODAPI-SPRINGBOOT\pom.xml.
+2025-11-27 23:12:21,327 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-27 23:12:21,368 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-27 23:12:21,382 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\OneDrive\Desktop\New folder\FOODAPI-SPRINGBOOT\src\test\resources
+2025-11-27 23:12:22,548 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-27 23:12:22,551 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-27 23:12:22,557 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\OneDrive\Desktop\New folder\FOODAPI-SPRINGBOOT\src\test\resources
+2025-11-27 23:14:55,504 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-27 23:14:55,514 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-27 23:14:55,518 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\DELL\OneDrive\Desktop\New folder\FOODAPI-SPRINGBOOT\src\test\resources
